@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/phase-8-640-643-getting-started",
+    "feat/issue-352-privacy-gdpr",
+    "fix/862-examples-add-spdx-headers-and-cargo-license-field-for-examples-twap-helper",
+    "fix/863-examples-add-spdx-headers-and-cargo-license-field-for-examples-upgradeable",
+    "fix/866-docs-add-unaudited-example-notice-to-documentation-docs-patterns-basic-token-mdx",
+    "fix/870-docs-add-unaudited-example-notice-to-documentation-docs-patterns-counter-mdx",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/phase-8-640-643-getting-started": "main",
+    "feat/issue-352-privacy-gdpr": "main",
+    "fix/862-examples-add-spdx-headers-and-cargo-license-field-for-examples-twap-helper": "main",
+    "fix/863-examples-add-spdx-headers-and-cargo-license-field-for-examples-upgradeable": "main",
+    "fix/866-docs-add-unaudited-example-notice-to-documentation-docs-patterns-basic-token-mdx": "main",
+    "fix/870-docs-add-unaudited-example-notice-to-documentation-docs-patterns-counter-mdx": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/phase-8-640-643-getting-started",
+    "feat/issue-352-privacy-gdpr",
+    "fix/862-examples-add-spdx-headers-and-cargo-license-field-for-examples-twap-helper",
+    "fix/863-examples-add-spdx-headers-and-cargo-license-field-for-examples-upgradeable",
+    "fix/866-docs-add-unaudited-example-notice-to-documentation-docs-patterns-basic-token-mdx",
+    "fix/870-docs-add-unaudited-example-notice-to-documentation-docs-patterns-counter-mdx",
+    "origin"
+  ]
+}
